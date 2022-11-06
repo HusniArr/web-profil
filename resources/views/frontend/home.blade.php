@@ -167,6 +167,7 @@
           </div>
         </div>
         <!-- end divider -->
+        
         <div class="row" id="clients">
           <div class="span12">
             <h4><strong>Our Client</strong></h4>
